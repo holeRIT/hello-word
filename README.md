@@ -1,5 +1,2 @@
 # hello-word
-exercice
-c'est le tout début de l'utilisation de hithub
-sans commit
-depuis github desktop
+files for the first use of Github
